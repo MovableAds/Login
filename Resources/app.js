@@ -36,8 +36,9 @@ function appStart() {
 				        
 				        console.log("User Login Success");
 				        alert(result.name + "(" + result.id + ")" + "\n" + result.email + "\n" + result.picture.data.url);
-				    	
+
 				    	var data = {
+						    username: result.email,
 						    email: result.email,
 						    first_name: result.first_name,
 						    last_name: result.last_name,
