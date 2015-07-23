@@ -1,0 +1,1 @@
+var RootWindow,Window;RootWindow=function(o){return Window="iphone"===Ti.Platform.name?Ti.UI.iOS.createNavigationWindow({navBarHidden:!0,window:o}):o},module.exports=RootWindow;

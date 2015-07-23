@@ -1,0 +1,842 @@
+
+Thu Jul 23 2015 21:05:24 GMT+0900 (KST)
+
+Operating System
+  Name                        = Mac OS X
+  Version                     = 10.10.4
+  Architecture                = 64bit
+  # CPUs                      = 4
+  Memory                      = 8589934592
+
+Node.js
+  Node.js Version             = 0.10.37
+  npm Version                 = 1.4.28
+
+Titanium CLI
+  CLI Version                 = 4.0.1
+
+Titanium SDK
+  SDK Version                 = 4.1.0.GA
+  SDK Path                    = /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA
+  Target Platform             = android
+
+Command
+  /usr/local/bin/node /Users/leejaew/.appcelerator/install/4.1.2/package/node_modules/appc-cli-titanium/node_modules/titanium/bin/titanium build --platform android --log-level trace --sdk 4.1.0.GA --project-dir /Users/leejaew/Workspace/Titanium/Login --target device --android-sdk /Users/leejaew/android-sdk-macosx --device-id 4100bf4744e18173 --no-colors --no-progress-bars --no-prompt --prompt-type socket-bundle --prompt-port 49187 --plugin-paths /Users/leejaew/.appcelerator/install/4.1.2/package/node_modules --config-file /var/folders/ql/cfgt8wld5w51j6wf6dp_g38m0000gn/T/build-1437653115992.json --no-banner
+
+[DEBUG]  Detecting modules in /usr/local/lib/node_modules/rapiddev/module/modules
+[DEBUG]  Detected iphone module: com.appersonlabs.rapiddev 0.1 @ /usr/local/lib/node_modules/rapiddev/module/modules/iphone/com.appersonlabs.rapiddev/0.1
+[DEBUG]  Detecting modules in /Users/leejaew/Library/Application Support/Titanium/modules
+[DEBUG]  Detected android module: com.appcelerator.apm 1.1.1 @ /Users/leejaew/Library/Application Support/Titanium/modules/android/com.appcelerator.apm/1.1.1
+[DEBUG]  Detected android module: com.plotprojects.ti 1.6.3 @ /Users/leejaew/Library/Application Support/Titanium/modules/android/com.plotprojects.ti/1.6.3
+[DEBUG]  Detected android module: facebook 3.0.2 @ /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/3.0.2
+[DEBUG]  Detected android module: facebook 3.0.3 @ /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/3.0.3
+[DEBUG]  Detected android module: facebook 4.0.1 @ /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.1
+[DEBUG]  Detected android module: facebook 4.0.2 @ /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.2
+[DEBUG]  Detected android module: facebook 4.0.3 @ /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.3
+[DEBUG]  Detected android module: facebook 4.0.5 @ /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5
+[DEBUG]  Detected android module: ti.cloudpush 3.3.0 @ /Users/leejaew/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.3.0
+[DEBUG]  Detected android module: ti.cloudpush 3.3.4 @ /Users/leejaew/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.3.4
+[DEBUG]  Detected android module: ti.cloudpush 3.3.7 @ /Users/leejaew/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.3.7
+[DEBUG]  Detected android module: ti.cloudpush 3.3.8 @ /Users/leejaew/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.3.8
+[DEBUG]  Detected android module: ti.ga 1.0.1 @ /Users/leejaew/Library/Application Support/Titanium/modules/android/ti.ga/1.0.1
+[DEBUG]  Detected android module: ti.map 2.1.4 @ /Users/leejaew/Library/Application Support/Titanium/modules/android/ti.map/2.1.4
+[DEBUG]  Detected android module: ti.map 2.2.2 @ /Users/leejaew/Library/Application Support/Titanium/modules/android/ti.map/2.2.2
+[DEBUG]  Detected android module: ti.map 2.2.3 @ /Users/leejaew/Library/Application Support/Titanium/modules/android/ti.map/2.2.3
+[DEBUG]  Detected android module: ti.map 2.3.0 @ /Users/leejaew/Library/Application Support/Titanium/modules/android/ti.map/2.3.0
+[DEBUG]  Detected android module: ti.map 2.3.1 @ /Users/leejaew/Library/Application Support/Titanium/modules/android/ti.map/2.3.1
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.5 @ /Users/leejaew/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.5
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.7 @ /Users/leejaew/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.7
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.8 @ /Users/leejaew/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.8
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.9 @ /Users/leejaew/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.9
+[DEBUG]  Detected iphone module: com.appcelerator.apm 1.1.1 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/com.appcelerator.apm/1.1.1
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 1.0.1 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/1.0.1
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 1.1.0 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/1.1.0
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 1.1.1 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/1.1.1
+[DEBUG]  Detected iphone module: com.plotprojects.ti 1.6.4 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/com.plotprojects.ti/1.6.4
+[DEBUG]  Detected iphone module: facebook 3.1.1 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/facebook/3.1.1
+[DEBUG]  Detected iphone module: facebook 3.2.0 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/facebook/3.2.0
+[DEBUG]  Detected iphone module: facebook 4.0.0 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/facebook/4.0.0
+[DEBUG]  Detected iphone module: facebook 4.0.3 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/facebook/4.0.3
+[DEBUG]  Detected iphone module: facebook 4.0.5 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/facebook/4.0.5
+[DEBUG]  Detected iphone module: ti.admob 1.9.0 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/ti.admob/1.9.0
+[DEBUG]  Detected iphone module: ti.coremotion 1.0.1 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/ti.coremotion/1.0.1
+[DEBUG]  Detected iphone module: ti.coremotion 1.1.0 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/ti.coremotion/1.1.0
+[DEBUG]  Detected iphone module: ti.ga 1.0.1 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/ti.ga/1.0.1
+[DEBUG]  Detected iphone module: ti.map 2.0.4 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/ti.map/2.0.4
+[DEBUG]  Detected iphone module: ti.map 2.2.0 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/ti.map/2.2.0
+[DEBUG]  Detected iphone module: ti.map 2.2.1 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/ti.map/2.2.1
+[DEBUG]  Detected iphone module: ti.map 2.2.2 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/ti.map/2.2.2
+[DEBUG]  Detected iphone module: ti.map 2.3.1 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/ti.map/2.3.1
+[DEBUG]  Detected iphone module: ti.touchid 1.0 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/ti.touchid/1.0
+[DEBUG]  Detected iphone module: ti.touchid 1.1.0 @ /Users/leejaew/Library/Application Support/Titanium/modules/iphone/ti.touchid/1.1.0
+[DEBUG]  Looking for Titanium module id=ti.cloud version=latest platform=commonjs deploy-type=test
+[INFO]   Found Titanium module id=ti.cloud version=3.2.9 platform=commonjs deploy-type=test path=/Users/leejaew/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.9
+[DEBUG]  Looking for Titanium module id=facebook version=latest platform=android deploy-type=test
+[INFO]   Found Titanium module id=facebook version=4.0.5 platform=android deploy-type=test path=/Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5
+[DEBUG]  No project level plugins to load
+[DEBUG]  Titanium SDK Android directory: /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android
+[INFO]   Deploy type: test
+[INFO]   Building for target: device
+[INFO]   Building for device: 4100bf4744e18173
+[INFO]   Targeting Android SDK: 22
+[INFO]   Building for the following architectures: armeabi, armeabi-v7a, x86
+[INFO]   Signing with keystore: /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/dev_keystore (tidev)
+[DEBUG]  App ID: com.movableads.login
+[DEBUG]  Classname: Login
+[INFO]   Debugging disabled
+[INFO]   Profiler disabled
+[INFO]   Forcing rebuild: JavaScript files need to be re-encrypted
+[TRACE]  offline build file /var/folders/ql/cfgt8wld5w51j6wf6dp_g38m0000gn/T/build-1ddfd70919ad6eac64f739cca455663abb58d08f.json
+[TRACE]  online 1
+[TRACE]  sending request {"json":{"username":"jae@movableads.com","session":"8876000729403c79c110b7a0cafe3f322b098130 2aQLhrvxFGPzSHnoRuseNi4d8Ib2wVXjItWY/7fAm75IX/y53HhyZBt0gOXviN+D+nkzxhqoiE7f0BjTN4CxK73BuqFTo1veWTP0DFP7J3F3HWfgquzDnAjciQiY+CcqMhHjPC4zh/7GPmEbgYSw2eIiw8KbW4lIAMLpY9VXwSEIomWnrhvEpxpuVtgrV6lPOu0DkB5sn1TUyqQSsLWe+d6x6nF+8bbv2nkPF1nrFE6CFRkGS+2V7BAACIOoxh01Q961pfZRrsaU/1gj4pRjOxyvJAwUYJ8vgGyqjDxcI3S6B/FXZx5Y68qEISF+pBnsWeVD7aLgNh+EA/CWfChPtm3L7tDEBWuhYC1Q8UH4WQ7nUu2Q8VcCCzrOEo68/d9ZytiL/exO4+feByKiFf8z3Sz9Jh7iJ1n6OiOmX7a6V74RbQkqZKL7dGPIF3cm0ik8XrCx+v7RWTG9jNeD79Fsu8P5TnAmWzyRjVuWmxcMV1gOtbnIZ8uu0x1tx9mvG7atb3wtlLmzZOSWq2OvogfG0bM9rrANqv1KhdlmKd9Ta5jslhI8FUv+CxFQ5JLd1n537uCPUQdzugm0wpXnpXTBDH0H6nBd32m7FPjKAt1AubOuDX7r8ZW7rldVNZcQGn1HmICeQRrKQNYYIk5ZZho9nGcnkxcY6YkEm5Emaq+L9z8ZZwdsKb4qAT9U+S4gnM/Q8qF+vPRuYX9D/g/w58K3RutIIB9DAAUTaRkapOa+RDm9ydqQiKUufsKYxOLBgqUbkoYHIFxuhdY1gmwwl3N+Mg==","ipaddress":"192.168.0.103","fingerprint":"5acae9d16cccaf40d141b4727d576e1b839fef42","fingerprint_description":"Mac OSX Serial Number: C02NH3C1G5RP","guid":"9a7dbf84-0f11-4b86-9eee-9eaf267ac0ac","appid":"com.movableads.login","name":"Login","org_id":100003805,"deploytype":"test","tiappxml":"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<ti:app \n  xmlns:ti=\"http://ti.appcelerator.org\">\n  <id>com.movableads.login</id>\n  <name>Login</name>\n  <version>1.0</version>\n  <publisher>leejaew</publisher>\n  <url>http://jael.ee</url>\n  <description>undefined</description>\n  <copyright>2015 by leejaew</copyright>\n  <icon>appicon.png</icon>\n  <fullscreen>false</fullscreen>\n  <navbar-hidden>false</navbar-hidden>\n  <analytics>true</analytics>\n  <guid>9a7dbf84-0f11-4b86-9eee-9eaf267ac0ac</guid>\n  <property name=\"ti.ui.defaultunit\" type=\"string\">dp</property>\n  <ios>\n    <plist>\n      <dict>\n        <key>UISupportedInterfaceOrientations~iphone</key>\n        <array>\n          <string>UIInterfaceOrientationPortrait</string>\n        </array>\n        <key>UISupportedInterfaceOrientations~ipad</key>\n        <array>\n          <string>UIInterfaceOrientationPortrait</string>\n          <string>UIInterfaceOrientationPortraitUpsideDown</string>\n          <string>UIInterfaceOrientationLandscapeLeft</string>\n          <string>UIInterfaceOrientationLandscapeRight</string>\n        </array>\n        <key>UIRequiresPersistentWiFi</key>\n        <false/>\n        <key>UIPrerenderedIcon</key>\n        <false/>\n        <key>UIStatusBarHidden</key>\n        <false/>\n        <key>UIStatusBarStyle</key>\n        <string>UIStatusBarStyleLightContent</string>\n        <!-- Facebook Module -->\n        <key>CFBundleURLTypes</key>\n        <array>\n          <dict>\n            <key>CFBundleURLName</key>\n            <!-- Application ID same as the id value in the tiapp.xml file -->\n            <string>com.leejaew.login</string>\n            <key>CFBundleURLSchemes</key>\n            <array>\n              <!-- Prefix the Facebook App ID with 'fb' -->\n              <string>fb1471078119858191</string>\n            </array>\n          </dict>\n        </array>\n        <key>FacebookAppID</key>\n        <!-- Facebook App ID -->\n        <string>1471078119858191</string>\n        <key>FacebookDisplayName</key>\n        <!-- Facebook App Name from developer.facebook.com -->\n        <string>Login</string>\n      </dict>\n    </plist>\n  </ios>\n  <android \n    xmlns:android=\"http://schemas.android.com/apk/res/android\">\n    <uses-sdk>14</uses-sdk>\n    <manifest>\n      <uses-sdk android:minSdkVersion=\"15\" android:targetSdkVersion=\"22\"/>\n      <application android:theme=\"@style/Theme.NoActionBar\">\n        <activity android:configChanges=\"keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize\" android:name=\"com.google.android.gms.ads.AdActivity\" android:screenOrientation=\"portrait\"/>\n        <activity android:label=\"@string/app_name\" android:name=\"com.facebook.LoginActivity\" android:theme=\"@android:style/Theme.Translucent.NoTitleBar\"/>\n        <meta-data android:name=\"com.facebook.sdk.ApplicationId\" android:value=\"@string/facebook_app_id\"/>\n      </application>\n      <!-- All services require the ACCESS_WIFI_STATE and INTERNET permissions -->\n      <uses-permission android:name=\"android.permission.ACCESS_WIFI_STATE\"/>\n      <uses-permission android:name=\"android.permission.INTERNET\"/>\n      <!-- The Appcelerator Test service requires READ_PHONE_STATE, BLUETOOTH, and BLUETOOTH_ADMIN permissions -->\n      <uses-permission android:name=\"android.permission.READ_PHONE_STATE\"/>\n      <uses-permission android:name=\"android.permission.BLUETOOTH\"/>\n      <uses-permission android:name=\"android.permission.BLUETOOTH_ADMIN\"/>\n      <!-- The Appcelerator Performance and Test services require the GET_TASKS permission -->\n      <uses-permission android:name=\"android.permission.GET_TASKS\"/>\n    </manifest>\n  </android>\n  <mobileweb>\n    <precache/>\n    <splash>\n      <enabled>true</enabled>\n      <inline-css-images>true</inline-css-images>\n    </splash>\n    <theme>default</theme>\n  </mobileweb>\n  <modules>\n    <module platform=\"commonjs\">ti.cloud</module>\n    <module platform=\"android\">facebook</module>\n    <module platform=\"iphone\">facebook</module>\n  </modules>\n  <deployment-targets>\n    <target device=\"android\">true</target>\n    <target device=\"ipad\">true</target>\n    <target device=\"iphone\">true</target>\n    <target device=\"mobileweb\">false</target>\n    <target device=\"windows\">false</target>\n  </deployment-targets>\n  <sdk-version>4.1.0.GA</sdk-version>\n  <property name=\"appc-app-id\" type=\"string\">55b086cde6c3361e5e13dd99</property>\n  <property name=\"acs-authbase-url-development\" type=\"string\">***</property>\n  <property name=\"acs-base-url-development\" type=\"string\">***</property>\n  <property name=\"acs-oauth-secret-development\" type=\"string\">***</property>\n  <property name=\"acs-oauth-key-development\" type=\"string\">***</property>\n  <property name=\"acs-api-key-development\" type=\"string\">***</property>\n  <property name=\"acs-username-development\" type=\"string\">***</property>\n  <property name=\"acs-password-development\" type=\"string\">***</property>\n  <property name=\"acs-authbase-url-production\" type=\"string\">***</property>\n  <property name=\"acs-base-url-production\" type=\"string\">***</property>\n  <property name=\"acs-oauth-secret-production\" type=\"string\">***</property>\n  <property name=\"acs-oauth-key-production\" type=\"string\">***</property>\n  <property name=\"acs-api-key-production\" type=\"string\">***</property>\n  <property name=\"acs-username-production\" type=\"string\">***</property>\n  <property name=\"acs-password-production\" type=\"string\">***</property>\n  <property name=\"appc-org-id\" type=\"string\">100003805</property>\n  <property name=\"appc-creator-user-id\" type=\"string\">c6c09f00-63eb-4854-994f-d1b9208b9cbe</property>\n</ti:app>","modules":[{"id":"ti.cloud","platform":["commonjs"],"deployType":["test"],"modulePath":"/Users/leejaew/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.9","version":"3.2.9","manifest":{"version":"3.2.9","description":"Appcelerator Cloud Services","author":"Dawson Toth, Jeff English, Jon Alter, Paul Lv, Michael Goff, and Pedro Enrique","license":"Appcelerator Commercial License","copyright":"Copyright (c) 2011-2014 by Appcelerator,  Inc.","name":"ti.cloud","moduleid":"ti.cloud","guid":"1056b5d2-2bb5-4339-b930-297637aeec4e","platform":"commonjs","minsdk":"2.1.0"},"native":false,"libFile":"/Users/leejaew/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.9/ti.cloud.js"},{"id":"facebook","platform":["android"],"deployType":["test"],"modulePath":"/Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5","version":"4.0.5","manifest":{"version":"4.0.5","apiversion":"2","architectures":"armeabi armeabi-v7a x86","description":"facebook","author":"Mark Mokryn and Ashraf A. S. (Appcelerator)","license":"Apache License Version 2.0","copyright":"Copyright (c) 2014 by Mark Mokryn, Copyright (c) 2009-2015 by Appcelerator","respackage":"com.facebook.android","name":"Facebook","moduleid":"facebook","guid":"e4f7ac61-1ee7-44c5-bc27-fa6876e2dce9","platform":"android","minsdk":"4.0.0"},"native":true,"jarName":"facebook.jar","jarFile":"/Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/facebook.jar","hash":"fe8e31fd66e3b71bdd5f845c0fbd941d","abis":["armeabi","armeabi-v7a","x86"],"bindings":{"modules":{"facebook.TiFacebookModule":{"apiName":"Facebook","createProxies":[{"proxyClassName":"facebook.ActivityWorkerProxy","id":"facebook.ActivityWorkerProxy","propertyAccessors":[],"isTopLevel":false,"name":"ActivityWorker","parentModule":"org.appcelerator.kroll.annotations.Kroll.DEFAULT","creatableInModule":"facebook.TiFacebookModule","fullAPIName":"Facebook.ActivityWorker"},{"proxyClassName":"facebook.LikeButtonProxy","id":"facebook.LikeButtonProxy","propertyAccessors":["foregroundColor","likeViewStyle","auxiliaryViewPosition","objectId","horizontalAlignment"],"isTopLevel":false,"name":"LikeButton","parentModule":"org.appcelerator.kroll.annotations.Kroll.DEFAULT","creatableInModule":"facebook.TiFacebookModule","fullAPIName":"Facebook.LikeButton"},{"proxyClassName":"facebook.LoginButtonProxy","id":"facebook.LoginButtonProxy","propertyAccessors":["audience","publishPermissions","readPermissions","sessionLoginBehavior"],"isTopLevel":false,"name":"LoginButton","parentModule":"org.appcelerator.kroll.annotations.Kroll.DEFAULT","creatableInModule":"facebook.TiFacebookModule","fullAPIName":"Facebook.LoginButton"}]}},"proxies":{"facebook.TiFacebookModule":{"methods":{"getCanPresentOpenGraphActionDialog":{"hasInvocation":false,"apiName":"getCanPresentOpenGraphActionDialog","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"boolean"},"getLoggedIn":{"hasInvocation":false,"apiName":"getLoggedIn","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"boolean"},"logCustomEvent":{"hasInvocation":false,"apiName":"logCustomEvent","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"event","name":"event","type":"java.lang.String"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"getAccessToken":{"hasInvocation":false,"apiName":"getAccessToken","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"java.lang.String"},"getUid":{"hasInvocation":false,"apiName":"getUid","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"java.lang.String"},"requestWithGraphPath":{"hasInvocation":false,"apiName":"requestWithGraphPath","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"path","name":"path","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"params","name":"params","type":"org.appcelerator.kroll.KrollDict"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"httpMethod","name":"httpMethod","type":"java.lang.String"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"callback","name":"callback","type":"org.appcelerator.kroll.KrollFunction"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"requestNewReadPermissions":{"hasInvocation":false,"apiName":"requestNewReadPermissions","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"permissions","name":"permissions","type":"java.lang.String[]"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"callback","name":"callback","type":"org.appcelerator.kroll.KrollFunction"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"presentWebShareDialog":{"hasInvocation":false,"apiName":"presentWebShareDialog","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"args","name":"args","optional":true,"type":"org.appcelerator.kroll.KrollDict"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"getExpirationDate":{"hasInvocation":false,"apiName":"getExpirationDate","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"java.util.Date"},"presentShareDialog":{"hasInvocation":false,"apiName":"presentShareDialog","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"args","name":"args","optional":true,"type":"org.appcelerator.kroll.KrollDict"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"presentSendRequestDialog":{"hasInvocation":false,"apiName":"presentSendRequestDialog","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"args","name":"args","optional":true,"type":"org.appcelerator.kroll.KrollDict"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"authorize":{"hasInvocation":false,"apiName":"authorize","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"logout":{"hasInvocation":false,"apiName":"logout","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"getPermissions":{"hasInvocation":false,"apiName":"getPermissions","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"java.lang.String[]"},"getCanPresentShareDialog":{"hasInvocation":false,"apiName":"getCanPresentShareDialog","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"boolean"},"requestNewPublishPermissions":{"hasInvocation":false,"apiName":"requestNewPublishPermissions","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"permissions","name":"permissions","type":"java.lang.String[]"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"audienceChoice","name":"audienceChoice","type":"int"},{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"callback","name":"callback","type":"org.appcelerator.kroll.KrollFunction"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"setPermissions":{"hasInvocation":false,"apiName":"setPermissions","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"permissions","name":"permissions","type":"java.lang.Object[]"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"refreshPermissionsFromServer":{"hasInvocation":false,"apiName":"refreshPermissionsFromServer","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"},"initialize":{"hasInvocation":false,"apiName":"initialize","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","args":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"timeout","name":"timeout","optional":true,"type":"int"}],"converter":"org.appcelerator.kroll.KrollConverter","runOnUiThread":false,"name":"__default_name__","returnType":"void"}},"proxyClassName":"TiFacebookModule","superProxyClassName":"KrollModule","superProxyBindingClassName":"org.appcelerator.kroll.KrollModuleBindingGen","proxyAttrs":{"proxyClassName":"facebook.TiFacebookModule","id":"facebook","propertyAccessors":[],"isTopLevel":false,"name":"Facebook","fullAPIName":"Facebook"},"packageName":"facebook","dynamicProperties":{"uid":{"getMethodArgs":[],"javascriptConverter":"org.appcelerator.kroll.KrollConverter","getDefaultProviders":[],"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","get":true,"runOnUiThread":false,"set":false,"getHasInvocation":false,"getMethodName":"getUid","converter":"org.appcelerator.kroll.KrollConverter","name":"uid","getReturnType":"java.lang.String","nativeConverter":"org.appcelerator.kroll.KrollConverter","setHasInvocation":false},"expirationDate":{"getMethodArgs":[],"javascriptConverter":"org.appcelerator.kroll.KrollConverter","getDefaultProviders":[],"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","get":true,"runOnUiThread":false,"set":false,"getHasInvocation":false,"getMethodName":"getExpirationDate","converter":"org.appcelerator.kroll.KrollConverter","name":"expirationDate","getReturnType":"java.util.Date","nativeConverter":"org.appcelerator.kroll.KrollConverter","setHasInvocation":false},"canPresentShareDialog":{"getMethodArgs":[],"javascriptConverter":"org.appcelerator.kroll.KrollConverter","getDefaultProviders":[],"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","get":true,"runOnUiThread":false,"set":false,"getHasInvocation":false,"getMethodName":"getCanPresentShareDialog","converter":"org.appcelerator.kroll.KrollConverter","name":"canPresentShareDialog","getReturnType":"boolean","nativeConverter":"org.appcelerator.kroll.KrollConverter","setHasInvocation":false},"accessToken":{"getMethodArgs":[],"javascriptConverter":"org.appcelerator.kroll.KrollConverter","getDefaultProviders":[],"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","get":true,"runOnUiThread":false,"set":false,"getHasInvocation":false,"getMethodName":"getAccessToken","converter":"org.appcelerator.kroll.KrollConverter","name":"accessToken","getReturnType":"java.lang.String","nativeConverter":"org.appcelerator.kroll.KrollConverter","setHasInvocation":false},"permissions":{"setDefaultProviders":["org.appcelerator.kroll.KrollConverter"],"getMethodArgs":[],"get":true,"runOnUiThread":false,"set":true,"getHasInvocation":false,"getMethodName":"getPermissions","getReturnType":"java.lang.String[]","setMethodArgs":[{"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","sourceName":"permissions","name":"permissions","type":"java.lang.Object[]"}],"setReturnType":"void","javascriptConverter":"org.appcelerator.kroll.KrollConverter","getDefaultProviders":[],"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","converter":"org.appcelerator.kroll.KrollConverter","name":"permissions","retain":true,"setMethodName":"setPermissions","nativeConverter":"org.appcelerator.kroll.KrollConverter","setHasInvocation":false},"canPresentOpenGraphActionDialog":{"getMethodArgs":[],"javascriptConverter":"org.appcelerator.kroll.KrollConverter","getDefaultProviders":[],"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","get":true,"runOnUiThread":false,"set":false,"getHasInvocation":false,"getMethodName":"getCanPresentOpenGraphActionDialog","converter":"org.appcelerator.kroll.KrollConverter","name":"canPresentOpenGraphActionDialog","getReturnType":"boolean","nativeConverter":"org.appcelerator.kroll.KrollConverter","setHasInvocation":false},"loggedIn":{"getMethodArgs":[],"javascriptConverter":"org.appcelerator.kroll.KrollConverter","getDefaultProviders":[],"defaultValueProvider":"org.appcelerator.kroll.KrollConverter","get":true,"runOnUiThread":false,"set":false,"getHasInvocation":false,"getMethodName":"getLoggedIn","converter":"org.appcelerator.kroll.KrollConverter","name":"loggedIn","getReturnType":"boolean","nativeConverter":"org.appcelerator.kroll.KrollConverter","setHasInvocation":false}},"sourceName":"facebook.TiFacebookModuleBindingGen","isModule":true,"genClassName":"TiFacebookModuleBindingGen","constants":{"AUDIENCE_FRIENDS":{"name":"AUDIENCE_FRIENDS","value":2,"proxyName":"AUDIENCE_FRIENDS","type":"int"},"AUDIENCE_ONLY_ME":{"name":"AUDIENCE_ONLY_ME","value":1,"proxyName":"AUDIENCE_ONLY_ME","type":"int"},"AUDIENCE_NONE":{"name":"AUDIENCE_NONE","value":0,"proxyName":"AUDIENCE_NONE","type":"int"},"SUPPRESS_SSO":{"name":"SUPPRESS_SSO","value":2,"proxyName":"SUPPRESS_SSO","type":"int"},"SSO_WITH_FALLBACK":{"name":"SSO_WITH_FALLBACK","value":0,"proxyName":"SSO_WITH_FALLBACK","type":"int"},"AUDIENCE_EVERYONE":{"name":"AUDIENCE_EVERYONE","value":3,"proxyName":"AUDIENCE_EVERYONE","type":"int"},"SSO_ONLY":{"name":"SSO_ONLY","value":1,"proxyName":"SSO_ONLY","type":"int"}},"superPackageName":"org.appcelerator.kroll","onAppCreate":"onAppCreate"},"facebook.LoginButtonProxy":{"proxyClassName":"LoginButtonProxy","superProxyClassName":"TiViewProxy","proxyAttrs":{"proxyClassName":"facebook.LoginButtonProxy","id":"facebook.LoginButtonProxy","propertyAccessors":["audience","publishPermissions","readPermissions","sessionLoginBehavior"],"isTopLevel":false,"name":"LoginButton","parentModule":"org.appcelerator.kroll.annotations.Kroll.DEFAULT","creatableInModule":"facebook.TiFacebookModule","fullAPIName":"Facebook.LoginButton"},"superProxyBindingClassName":"org.appcelerator.titanium.proxy.TiViewProxyBindingGen","packageName":"facebook","sourceName":"facebook.LoginButtonProxyBindingGen","genClassName":"LoginButtonProxyBindingGen","isModule":false,"superPackageName":"org.appcelerator.titanium.proxy"},"facebook.LikeButtonProxy":{"proxyClassName":"LikeButtonProxy","superProxyClassName":"TiViewProxy","proxyAttrs":{"proxyClassName":"facebook.LikeButtonProxy","id":"facebook.LikeButtonProxy","propertyAccessors":["foregroundColor","likeViewStyle","auxiliaryViewPosition","objectId","horizontalAlignment"],"isTopLevel":false,"name":"LikeButton","parentModule":"org.appcelerator.kroll.annotations.Kroll.DEFAULT","creatableInModule":"facebook.TiFacebookModule","fullAPIName":"Facebook.LikeButton"},"superProxyBindingClassName":"org.appcelerator.titanium.proxy.TiViewProxyBindingGen","packageName":"facebook","sourceName":"facebook.LikeButtonProxyBindingGen","genClassName":"LikeButtonProxyBindingGen","isModule":false,"superPackageName":"org.appcelerator.titanium.proxy"},"facebook.ActivityWorkerProxy":{"proxyClassName":"ActivityWorkerProxy","superProxyClassName":"KrollProxy","proxyAttrs":{"proxyClassName":"facebook.ActivityWorkerProxy","id":"facebook.ActivityWorkerProxy","propertyAccessors":[],"isTopLevel":false,"name":"ActivityWorker","parentModule":"org.appcelerator.kroll.annotations.Kroll.DEFAULT","creatableInModule":"facebook.TiFacebookModule","fullAPIName":"Facebook.ActivityWorker"},"superProxyBindingClassName":"org.appcelerator.kroll.KrollProxyBindingGen","packageName":"facebook","sourceName":"facebook.ActivityWorkerProxyBindingGen","genClassName":"ActivityWorkerProxyBindingGen","isModule":false,"superPackageName":"org.appcelerator.kroll"}}}}]},"gzip":true,"followAllRedirects":true,"url":"https://security.appcelerator.com/build-verify"}
+[TRACE]  result from /build-verify=> {"key":"f0ywl+2Zu79fWOc9JzxKlg==","pepper":"3uuUm2/g07xL8TNI+co9Dw==","hmacKey":"uXNiWlkHGc40HE480Ro0lg==","o":100003805,"u":"c6c09f00-63eb-4854-994f-d1b9208b9cbe","p":"starter","i":"55b0d8897ed7bbfaa77ef075","success":true}, err=null
+[INFO]   JavaScript files need to be encrypted
+[DEBUG]  Ignoring /Users/leejaew/Workspace/Titanium/Login/Resources/.DS_Store
+[DEBUG]  Ignoring /Users/leejaew/Workspace/Titanium/Login/Resources/android
+[DEBUG]  Ignoring /Users/leejaew/Workspace/Titanium/Login/Resources/iphone
+[WARN]   Overwriting file /Users/leejaew/Workspace/Titanium/Login/build/android/bin/assets/Resources/appicon.png
+[DEBUG]  Symlinking /Users/leejaew/Workspace/Titanium/Login/Resources/android/appicon.png => /Users/leejaew/Workspace/Titanium/Login/build/android/bin/assets/Resources/appicon.png
+[DEBUG]  Symlinking /Users/leejaew/Workspace/Titanium/Login/Resources/android/default.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/background.png
+[DEBUG]  Symlinking /Users/leejaew/Workspace/Titanium/Login/Resources/android/images/res-long-land-hdpi/default.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-long-land-hdpi/background.png
+[DEBUG]  Symlinking /Users/leejaew/Workspace/Titanium/Login/Resources/android/images/res-long-land-ldpi/default.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-long-land-ldpi/background.png
+[DEBUG]  Symlinking /Users/leejaew/Workspace/Titanium/Login/Resources/android/images/res-long-port-hdpi/default.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-long-port-hdpi/background.png
+[DEBUG]  Symlinking /Users/leejaew/Workspace/Titanium/Login/Resources/android/images/res-long-port-ldpi/default.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-long-port-ldpi/background.png
+[DEBUG]  Symlinking /Users/leejaew/Workspace/Titanium/Login/Resources/android/images/res-notlong-land-hdpi/default.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-notlong-land-hdpi/background.png
+[DEBUG]  Symlinking /Users/leejaew/Workspace/Titanium/Login/Resources/android/images/res-notlong-land-ldpi/default.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-notlong-land-ldpi/background.png
+[DEBUG]  Symlinking /Users/leejaew/Workspace/Titanium/Login/Resources/android/images/res-notlong-land-mdpi/default.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-notlong-land-mdpi/background.png
+[DEBUG]  Symlinking /Users/leejaew/Workspace/Titanium/Login/Resources/android/images/res-notlong-port-hdpi/default.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-notlong-port-hdpi/background.png
+[DEBUG]  Symlinking /Users/leejaew/Workspace/Titanium/Login/Resources/android/images/res-notlong-port-ldpi/default.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-notlong-port-ldpi/background.png
+[DEBUG]  Symlinking /Users/leejaew/Workspace/Titanium/Login/Resources/android/images/res-notlong-port-mdpi/default.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-notlong-port-mdpi/background.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_button_blue.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_button_blue.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_button_blue_focused.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_button_blue_focused.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_button_blue_normal.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_button_blue_normal.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_button_blue_pressed.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_button_blue_pressed.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_button_check.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_button_check.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_button_check_off.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_button_check_off.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_button_check_on.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_button_check_on.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_button_grey_focused.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_button_grey_focused.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_button_grey_normal.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_button_grey_normal.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_button_grey_pressed.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_button_grey_pressed.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_button_like.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_button_like.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_button_like_background.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_button_like_background.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_button_like_background_selected.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_button_like_background_selected.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_button_like_icon.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_button_like_icon.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_button_like_icon_selected.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_button_like_icon_selected.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_button_like_pressed.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_button_like_pressed.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_button_like_selected.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_button_like_selected.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_close.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_close.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_icon.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_icon.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_inverse_icon.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_inverse_icon.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_list_divider.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_list_divider.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_list_section_header_background.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_list_section_header_background.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_loginbutton_blue.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_loginbutton_blue.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_loginbutton_blue_focused.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_loginbutton_blue_focused.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_loginbutton_blue_normal.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_loginbutton_blue_normal.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_loginbutton_blue_pressed.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_loginbutton_blue_pressed.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_loginbutton_silver.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_loginbutton_silver.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_logo.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_logo.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_picker_item_background.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_picker_item_background.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_picker_list_focused.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_picker_list_focused.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_picker_list_longpressed.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_picker_list_longpressed.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_picker_list_pressed.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_picker_list_pressed.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_picker_list_selector.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_picker_list_selector.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_picker_list_selector_background_transition.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_picker_list_selector_background_transition.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_picker_list_selector_disabled.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_picker_list_selector_disabled.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_picker_top_button.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_picker_top_button.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_place_default_icon.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_place_default_icon.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_profile_default_icon.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_profile_default_icon.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_profile_picture_blank_portrait.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_profile_picture_blank_portrait.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_profile_picture_blank_square.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_profile_picture_blank_square.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_top_background.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_top_background.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_top_button.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_top_button.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable/com_facebook_usersettingsfragment_background_gradient.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/com_facebook_usersettingsfragment_background_gradient.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_button_blue_focused.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_button_blue_focused.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_button_blue_normal.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_button_blue_normal.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_button_blue_pressed.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_button_blue_pressed.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_button_grey_focused.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_button_grey_focused.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_button_grey_normal.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_button_grey_normal.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_button_grey_pressed.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_button_grey_pressed.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_button_like_background.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_button_like_background.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_button_like_background_selected.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_button_like_background_selected.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_button_like_icon.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_button_like_icon.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_button_like_icon_selected.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_button_like_icon_selected.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_button_like_pressed.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_button_like_pressed.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_close.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_close.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_icon.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_icon.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_inverse_icon.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_inverse_icon.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_loginbutton_blue_focused.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_loginbutton_blue_focused.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_loginbutton_blue_normal.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_loginbutton_blue_normal.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_loginbutton_blue_pressed.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_loginbutton_blue_pressed.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_logo.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_logo.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_picker_magnifier.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_picker_magnifier.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_tooltip_black_background.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_tooltip_black_background.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_tooltip_black_bottomnub.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_tooltip_black_bottomnub.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_tooltip_black_topnub.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_tooltip_black_topnub.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_tooltip_black_xout.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_tooltip_black_xout.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_tooltip_blue_background.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_tooltip_blue_background.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_tooltip_blue_bottomnub.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_tooltip_blue_bottomnub.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_tooltip_blue_topnub.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_tooltip_blue_topnub.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-hdpi/com_facebook_tooltip_blue_xout.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-hdpi/com_facebook_tooltip_blue_xout.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-ldpi/com_facebook_close.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-ldpi/com_facebook_close.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-ldpi/com_facebook_icon.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-ldpi/com_facebook_icon.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-mdpi/com_facebook_button_blue_focused.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-mdpi/com_facebook_button_blue_focused.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-mdpi/com_facebook_button_blue_normal.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-mdpi/com_facebook_button_blue_normal.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-mdpi/com_facebook_button_blue_pressed.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-mdpi/com_facebook_button_blue_pressed.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-mdpi/com_facebook_inverse_icon.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-mdpi/com_facebook_inverse_icon.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-mdpi/com_facebook_picker_magnifier.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-mdpi/com_facebook_picker_magnifier.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-mdpi/com_facebook_tooltip_black_background.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-mdpi/com_facebook_tooltip_black_background.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-mdpi/com_facebook_tooltip_black_bottomnub.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-mdpi/com_facebook_tooltip_black_bottomnub.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-mdpi/com_facebook_tooltip_black_topnub.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-mdpi/com_facebook_tooltip_black_topnub.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-mdpi/com_facebook_tooltip_black_xout.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-mdpi/com_facebook_tooltip_black_xout.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-mdpi/com_facebook_tooltip_blue_background.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-mdpi/com_facebook_tooltip_blue_background.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-mdpi/com_facebook_tooltip_blue_bottomnub.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-mdpi/com_facebook_tooltip_blue_bottomnub.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-mdpi/com_facebook_tooltip_blue_topnub.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-mdpi/com_facebook_tooltip_blue_topnub.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-mdpi/com_facebook_tooltip_blue_xout.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-mdpi/com_facebook_tooltip_blue_xout.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_button_blue_focused.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_button_blue_focused.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_button_blue_normal.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_button_blue_normal.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_button_blue_pressed.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_button_blue_pressed.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_button_grey_focused.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_button_grey_focused.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_button_grey_normal.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_button_grey_normal.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_button_grey_pressed.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_button_grey_pressed.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_button_like_background.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_button_like_background.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_button_like_background_selected.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_button_like_background_selected.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_button_like_icon.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_button_like_icon.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_button_like_icon_selected.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_button_like_icon_selected.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_button_like_pressed.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_button_like_pressed.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_close.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_close.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_inverse_icon.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_inverse_icon.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_loginbutton_blue_focused.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_loginbutton_blue_focused.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_loginbutton_blue_normal.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_loginbutton_blue_normal.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_loginbutton_blue_pressed.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_loginbutton_blue_pressed.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_logo.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_logo.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_picker_magnifier.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_picker_magnifier.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_tooltip_black_background.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_tooltip_black_background.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_tooltip_black_bottomnub.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_tooltip_black_bottomnub.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_tooltip_black_topnub.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_tooltip_black_topnub.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_tooltip_black_xout.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_tooltip_black_xout.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_tooltip_blue_background.9.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_tooltip_blue_background.9.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_tooltip_blue_bottomnub.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_tooltip_blue_bottomnub.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_tooltip_blue_topnub.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_tooltip_blue_topnub.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xhdpi/com_facebook_tooltip_blue_xout.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xhdpi/com_facebook_tooltip_blue_xout.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xxhdpi/com_facebook_button_like_background.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xxhdpi/com_facebook_button_like_background.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xxhdpi/com_facebook_button_like_background_selected.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xxhdpi/com_facebook_button_like_background_selected.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xxhdpi/com_facebook_button_like_icon.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xxhdpi/com_facebook_button_like_icon.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xxhdpi/com_facebook_button_like_icon_selected.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xxhdpi/com_facebook_button_like_icon_selected.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/drawable-xxhdpi/com_facebook_button_like_pressed.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable-xxhdpi/com_facebook_button_like_pressed.png
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/layout/com_facebook_friendpickerfragment.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/layout/com_facebook_friendpickerfragment.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/layout/com_facebook_login_activity_layout.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/layout/com_facebook_login_activity_layout.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/layout/com_facebook_picker_activity_circle_row.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/layout/com_facebook_picker_activity_circle_row.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/layout/com_facebook_picker_checkbox.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/layout/com_facebook_picker_checkbox.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/layout/com_facebook_picker_image.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/layout/com_facebook_picker_image.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/layout/com_facebook_picker_list_row.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/layout/com_facebook_picker_list_row.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/layout/com_facebook_picker_list_section_header.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/layout/com_facebook_picker_list_section_header.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/layout/com_facebook_picker_search_box.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/layout/com_facebook_picker_search_box.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/layout/com_facebook_picker_title_bar.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/layout/com_facebook_picker_title_bar.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/layout/com_facebook_picker_title_bar_stub.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/layout/com_facebook_picker_title_bar_stub.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/layout/com_facebook_placepickerfragment.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/layout/com_facebook_placepickerfragment.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/layout/com_facebook_placepickerfragment_list_row.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/layout/com_facebook_placepickerfragment_list_row.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/layout/com_facebook_search_bar_layout.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/layout/com_facebook_search_bar_layout.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/layout/com_facebook_tooltip_bubble.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/layout/com_facebook_tooltip_bubble.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/layout/com_facebook_usersettingsfragment.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/layout/com_facebook_usersettingsfragment.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/layout/ti_fb_login_button.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/layout/ti_fb_login_button.xml
+[DEBUG]  Copying /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/values/attrs.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values/attrs.xml
+[DEBUG]  Copying /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/values/colors.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values/colors.xml
+[DEBUG]  Symlinking /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/values/drawables.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values/drawables.xml
+[DEBUG]  Copying /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/values/strings.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values/strings.xml
+[DEBUG]  Copying /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/values/styles.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values/styles.xml
+[DEBUG]  Copying /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/values-es/strings.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values-es/strings.xml
+[DEBUG]  Copying /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/values-hdpi/dimens.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values-hdpi/dimens.xml
+[DEBUG]  Copying /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/values-he/strings.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values-he/strings.xml
+[DEBUG]  Copying /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/values-iw/strings.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values-iw/strings.xml
+[DEBUG]  Copying /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/values-ldpi/dimens.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values-ldpi/dimens.xml
+[DEBUG]  Copying /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/values-mdpi/dimens.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values-mdpi/dimens.xml
+[DEBUG]  Copying /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/platform/android/res/values-xhdpi/dimens.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values-xhdpi/dimens.xml
+[DEBUG]  Symlinking /Users/leejaew/Workspace/Titanium/Login/platform/android/res/values/color.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values/color.xml
+[DEBUG]  Symlinking /Users/leejaew/Workspace/Titanium/Login/platform/android/res/values/customtheme.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values/customtheme.xml
+[DEBUG]  Merging /Users/leejaew/Workspace/Titanium/Login/platform/android/res/values/strings.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values/strings.xml
+[DEBUG]  Symlinking /Users/leejaew/Workspace/Titanium/Login/build/android/bin/assets/Resources/appicon.png => /Users/leejaew/Workspace/Titanium/Login/build/android/res/drawable/appicon.png
+[INFO]   Processing JavaScript files
+[DEBUG]  Copying and minifying /Users/leejaew/Workspace/Titanium/Login/Resources/app.js => /Users/leejaew/Workspace/Titanium/Login/build/android/assets/app.js
+[DEBUG]  Copying and minifying /Users/leejaew/Workspace/Titanium/Login/Resources/ui/HomeWindow.js => /Users/leejaew/Workspace/Titanium/Login/build/android/assets/ui/HomeWindow.js
+[DEBUG]  Copying and minifying /Users/leejaew/Workspace/Titanium/Login/Resources/ui/LoginWindow.js => /Users/leejaew/Workspace/Titanium/Login/build/android/assets/ui/LoginWindow.js
+[DEBUG]  Copying and minifying /Users/leejaew/Workspace/Titanium/Login/Resources/ui/RootWindow.js => /Users/leejaew/Workspace/Titanium/Login/build/android/assets/ui/RootWindow.js
+[DEBUG]  Copying and minifying /Users/leejaew/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.9/ti.cloud.js => /Users/leejaew/Workspace/Titanium/Login/build/android/assets/ti.cloud.js
+[INFO]   Encrypting JavaScript files: /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/titanium_prep.macos "com.movableads.login" "/Users/leejaew/Workspace/Titanium/Login/build/android/assets" "app.js" "ui/HomeWindow.js" "ui/LoginWindow.js" "ui/RootWindow.js" "ti.cloud.js" "_app_props_.json"
+[DEBUG]  Adding library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/kroll-v8.jar
+[DEBUG]  Adding library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-analytics.jar
+[DEBUG]  Adding dependency library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/aps-analytics.jar
+[DEBUG]  Adding library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-android.jar
+[DEBUG]  Adding dependency library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/jaxen-1.1.1.jar
+[DEBUG]  Adding dependency library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/ti-commons-codec-1.3.jar
+[DEBUG]  Adding dependency library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/kroll-common.jar
+[DEBUG]  Adding dependency library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/titanium.jar
+[DEBUG]  Adding library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-app.jar
+[DEBUG]  Adding library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-ui.jar
+[DEBUG]  Adding dependency library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/nineoldandroids-appc-2.4.0.jar
+[DEBUG]  Adding library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-filesystem.jar
+[DEBUG]  Adding library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-media.jar
+[DEBUG]  Adding library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-appcompat.jar
+[DEBUG]  Adding dependency library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/android-support-v4.jar
+[DEBUG]  Adding dependency library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/android-support-v7-appcompat.jar
+[DEBUG]  Adding library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-locale.jar
+[DEBUG]  Adding library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-network.jar
+[DEBUG]  Adding dependency library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/thirdparty.jar
+[DEBUG]  Adding library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-xml.jar
+[DEBUG]  Adding library /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-platform.jar
+[DEBUG]  Unknown namespace ui.ios, skipping
+[DEBUG]  Unknown namespace api, skipping
+[DEBUG]  Unknown namespace app.deploytype, skipping
+[INFO]   Writing /Users/leejaew/Workspace/Titanium/Login/build/android/bin/assets/app.json
+[INFO]   Extracting module resources: /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-analytics.res.zip
+[DEBUG]  Merging /var/folders/ql/cfgt8wld5w51j6wf6dp_g38m0000gn/T/115623-67424-130973s/res/values/strings.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-android.res.zip
+[DEBUG]  Merging /var/folders/ql/cfgt8wld5w51j6wf6dp_g38m0000gn/T/115623-67424-gexcx8/res/values/strings.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-app.res.zip
+[DEBUG]  Merging /var/folders/ql/cfgt8wld5w51j6wf6dp_g38m0000gn/T/115623-67424-1wiasau/res/values/strings.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-filesystem.res.zip
+[DEBUG]  Merging /var/folders/ql/cfgt8wld5w51j6wf6dp_g38m0000gn/T/115623-67424-f3g4wi/res/values/strings.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-media.res.zip
+[DEBUG]  Merging /var/folders/ql/cfgt8wld5w51j6wf6dp_g38m0000gn/T/115623-67424-1ran74k/res/values/strings.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-locale.res.zip
+[DEBUG]  Merging /var/folders/ql/cfgt8wld5w51j6wf6dp_g38m0000gn/T/115623-67424-1ev4hmy/res/values/strings.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-network.res.zip
+[DEBUG]  Merging /var/folders/ql/cfgt8wld5w51j6wf6dp_g38m0000gn/T/115623-67424-38t9r8/res/values/strings.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-xml.res.zip
+[DEBUG]  Merging /var/folders/ql/cfgt8wld5w51j6wf6dp_g38m0000gn/T/115623-67424-157blm4/res/values/strings.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-platform.res.zip
+[DEBUG]  Merging /var/folders/ql/cfgt8wld5w51j6wf6dp_g38m0000gn/T/115623-67424-vj0ueq/res/values/strings.xml => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values/strings.xml
+[DEBUG]  Removing old file: /Users/leejaew/Workspace/Titanium/Login/build/android/.classpath
+[DEBUG]  Removing old file: /Users/leejaew/Workspace/Titanium/Login/build/android/.gitignore
+[DEBUG]  Removing old file: /Users/leejaew/Workspace/Titanium/Login/build/android/.project
+[DEBUG]  Removing old file: /Users/leejaew/Workspace/Titanium/Login/build/android/AndroidManifest.xml
+[DEBUG]  Removing old file: /Users/leejaew/Workspace/Titanium/Login/build/android/default.properties
+[DEBUG]  Removing old file: /Users/leejaew/Workspace/Titanium/Login/build/android/java-sources.txt
+[DEBUG]  Copying template /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/templates/build/AppInfo.java => /Users/leejaew/Workspace/Titanium/Login/build/android/gen/com/movableads/login/LoginAppInfo.java
+[DEBUG]  Copying template /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/templates/build/App.java => /Users/leejaew/Workspace/Titanium/Login/build/android/gen/com/movableads/login/LoginApplication.java
+[DEBUG]  Copying template /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/templates/build/Activity.java => /Users/leejaew/Workspace/Titanium/Login/build/android/gen/com/movableads/login/LoginActivity.java
+[DEBUG]  Copying template /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/templates/build/project => /Users/leejaew/Workspace/Titanium/Login/build/android/.project
+[DEBUG]  Copying template /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/templates/build/default.properties => /Users/leejaew/Workspace/Titanium/Login/build/android/default.properties
+[DEBUG]  Copying /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/templates/build/gitignore => /Users/leejaew/Workspace/Titanium/Login/build/android/.gitignore
+[DEBUG]  Copying /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/templates/build/classpath => /Users/leejaew/Workspace/Titanium/Login/build/android/.classpath
+[INFO]   No aidl files to compile, continuing
+[INFO]   Generating i18n files
+[DEBUG]  Merging en strings => /Users/leejaew/Workspace/Titanium/Login/build/android/res/values/strings.xml
+[INFO]   Generating /Users/leejaew/Workspace/Titanium/Login/build/android/res/values/theme.xml
+[INFO]   Packaging application: /Users/leejaew/android-sdk-macosx/build-tools/22.0.1/aapt "package" "-f" "-m" "-J" "/Users/leejaew/Workspace/Titanium/Login/build/android/gen" "-M" "/Users/leejaew/Workspace/Titanium/Login/build/android/AndroidManifest.xml" "-A" "/Users/leejaew/Workspace/Titanium/Login/build/android/bin/assets" "-S" "/Users/leejaew/Workspace/Titanium/Login/build/android/res" "-I" "/Users/leejaew/android-sdk-macosx/platforms/android-22/android.jar" "-F" "/Users/leejaew/Workspace/Titanium/Login/build/android/bin/app.ap_" "--auto-add-overlay" "--extra-packages" "ti.modules.titanium.ui:android.support.v7.appcompat:com.facebook.android" "-S" "/var/folders/ql/cfgt8wld5w51j6wf6dp_g38m0000gn/T/115623-67424-4cftsz/res" "-S" "/var/folders/ql/cfgt8wld5w51j6wf6dp_g38m0000gn/T/115623-67424-1vo7dui/res"
+[INFO]   Building Java source files: /Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/bin/javac "-J-Xmx256M" "-encoding" "utf8" "-bootclasspath" "/Users/leejaew/android-sdk-macosx/platforms/android-22/android.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/kroll-v8.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-analytics.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/aps-analytics.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-android.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/jaxen-1.1.1.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/ti-commons-codec-1.3.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/kroll-common.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/titanium.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-app.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-ui.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/nineoldandroids-appc-2.4.0.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-filesystem.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-media.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-appcompat.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/android-support-v4.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/android-support-v7-appcompat.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-locale.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-network.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/thirdparty.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-xml.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-platform.jar:/Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/facebook.jar:/Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/lib/bolts-android-1.1.2.jar:/Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/lib/facebooksdk.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/kroll-apt.jar:/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/lib/titanium-verify.jar:R.class:ApplicationStylesheet.class:AssetCryptImpl.class:LoginActivity.class:LoginAppInfo.class:LoginApplication.class" "-d" "/Users/leejaew/Workspace/Titanium/Login/build/android/bin/classes" "-proc:none" "-target" "1.6" "-source" "1.6" "@/Users/leejaew/Workspace/Titanium/Login/build/android/java-sources.txt"
+[INFO]   Running dexer: /Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/bin/java "-Xmx1024M" "-XX:-UseGCOverheadLimit" "-Djava.ext.dirs=/Users/leejaew/android-sdk-macosx/platform-tools" "-jar" "/Users/leejaew/android-sdk-macosx/build-tools/22.0.1/lib/dx.jar" "--dex" "--output=/Users/leejaew/Workspace/Titanium/Login/build/android/bin/classes.dex" "/Users/leejaew/Workspace/Titanium/Login/build/android/bin/classes" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/lib/titanium-verify.jar" "/Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/facebook.jar" "/Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/lib/bolts-android-1.1.2.jar" "/Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/lib/facebooksdk.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/kroll-v8.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-analytics.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/aps-analytics.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-android.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/jaxen-1.1.1.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/ti-commons-codec-1.3.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/kroll-common.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/titanium.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-app.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-ui.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/nineoldandroids-appc-2.4.0.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-filesystem.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-media.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-appcompat.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/android-support-v4.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/android-support-v7-appcompat.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-locale.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-network.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/thirdparty.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-xml.jar" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-platform.jar"
+[INFO]   Creating unsigned apk
+[DEBUG]  Processing /Users/leejaew/Workspace/Titanium/Login/build/android/bin/app.ap_
+[DEBUG]  Deflating AndroidManifest.xml
+[DEBUG]  Adding assets/Resources/appicon.png
+[DEBUG]  Deflating assets/app.json
+[DEBUG]  Deflating assets/index.json
+[DEBUG]  Deflating res/anim/abc_fade_in.xml
+[DEBUG]  Deflating res/anim/abc_fade_out.xml
+[DEBUG]  Deflating res/anim/abc_grow_fade_in_from_bottom.xml
+[DEBUG]  Deflating res/anim/abc_popup_enter.xml
+[DEBUG]  Deflating res/anim/abc_popup_exit.xml
+[DEBUG]  Deflating res/anim/abc_shrink_fade_out_from_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_in_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_in_top.xml
+[DEBUG]  Deflating res/anim/abc_slide_out_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_out_top.xml
+[DEBUG]  Deflating res/color-v11/abc_background_cache_hint_selector_material_dark.xml
+[DEBUG]  Deflating res/color-v11/abc_background_cache_hint_selector_material_light.xml
+[DEBUG]  Deflating res/color/abc_background_cache_hint_selector_material_dark.xml
+[DEBUG]  Deflating res/color/abc_background_cache_hint_selector_material_light.xml
+[DEBUG]  Deflating res/color/abc_primary_text_disable_only_material_dark.xml
+[DEBUG]  Deflating res/color/abc_primary_text_disable_only_material_light.xml
+[DEBUG]  Deflating res/color/abc_primary_text_material_dark.xml
+[DEBUG]  Deflating res/color/abc_primary_text_material_light.xml
+[DEBUG]  Deflating res/color/abc_search_url_text.xml
+[DEBUG]  Deflating res/color/abc_secondary_text_material_dark.xml
+[DEBUG]  Deflating res/color/abc_secondary_text_material_light.xml
+[DEBUG]  Deflating res/color/switch_thumb_material_dark.xml
+[DEBUG]  Deflating res/color/switch_thumb_material_light.xml
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_text_cursor_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_button_blue_focused.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_button_blue_normal.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_button_blue_pressed.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_button_grey_focused.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_button_grey_normal.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_button_grey_pressed.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_button_like_background.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_button_like_background_selected.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_button_like_icon.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_button_like_pressed.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_close.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_icon.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_inverse_icon.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_loginbutton_blue_focused.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_loginbutton_blue_normal.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_loginbutton_blue_pressed.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_logo.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_picker_magnifier.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png
+[DEBUG]  Adding res/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png
+[DEBUG]  Adding res/drawable-ldpi-v4/com_facebook_close.png
+[DEBUG]  Adding res/drawable-ldpi-v4/com_facebook_icon.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-long-land-hdpi-v4/background.png
+[DEBUG]  Adding res/drawable-long-land-ldpi-v4/background.png
+[DEBUG]  Adding res/drawable-long-port-hdpi-v4/background.png
+[DEBUG]  Adding res/drawable-long-port-ldpi-v4/background.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_text_cursor_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/com_facebook_button_blue_focused.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/com_facebook_button_blue_normal.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/com_facebook_button_blue_pressed.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/com_facebook_inverse_icon.png
+[DEBUG]  Adding res/drawable-mdpi-v4/com_facebook_picker_magnifier.png
+[DEBUG]  Adding res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png
+[DEBUG]  Adding res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png
+[DEBUG]  Adding res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png
+[DEBUG]  Adding res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+[DEBUG]  Adding res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png
+[DEBUG]  Adding res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png
+[DEBUG]  Adding res/drawable-notlong-land-hdpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-land-ldpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-land-mdpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-port-hdpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-port-ldpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-port-mdpi-v4/background.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_text_cursor_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_button_blue_focused.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_button_blue_normal.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_button_blue_pressed.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_button_grey_focused.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_button_grey_normal.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_button_grey_pressed.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_button_like_background.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_button_like_background_selected.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_button_like_icon.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_button_like_pressed.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_close.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_inverse_icon.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_loginbutton_blue_focused.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_loginbutton_blue_normal.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_loginbutton_blue_pressed.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_logo.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_picker_magnifier.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_text_cursor_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/com_facebook_button_like_background.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/com_facebook_button_like_background_selected.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/com_facebook_button_like_icon.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/com_facebook_button_like_pressed.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Deflating res/drawable/abc_btn_borderless_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_check_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_default_mtrl_shape.xml
+[DEBUG]  Deflating res/drawable/abc_btn_radio_material.xml
+[DEBUG]  Deflating res/drawable/abc_cab_background_internal_bg.xml
+[DEBUG]  Deflating res/drawable/abc_cab_background_top_material.xml
+[DEBUG]  Deflating res/drawable/abc_dialog_material_background_dark.xml
+[DEBUG]  Deflating res/drawable/abc_dialog_material_background_light.xml
+[DEBUG]  Deflating res/drawable/abc_edit_text_material.xml
+[DEBUG]  Deflating res/drawable/abc_item_background_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_item_background_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_background_transition_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_background_transition_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_ratingbar_full_material.xml
+[DEBUG]  Deflating res/drawable/abc_spinner_textfield_background_material.xml
+[DEBUG]  Deflating res/drawable/abc_switch_thumb_material.xml
+[DEBUG]  Deflating res/drawable/abc_tab_indicator_material.xml
+[DEBUG]  Deflating res/drawable/abc_textfield_search_material.xml
+[DEBUG]  Adding res/drawable/appicon.png
+[DEBUG]  Adding res/drawable/background.png
+[DEBUG]  Adding res/drawable/btn_check_buttonless_on_64.png
+[DEBUG]  Adding res/drawable/btn_more_64.png
+[DEBUG]  Deflating res/drawable/com_facebook_button_blue.xml
+[DEBUG]  Adding res/drawable/com_facebook_button_blue_focused.9.png
+[DEBUG]  Adding res/drawable/com_facebook_button_blue_normal.9.png
+[DEBUG]  Adding res/drawable/com_facebook_button_blue_pressed.9.png
+[DEBUG]  Deflating res/drawable/com_facebook_button_check.xml
+[DEBUG]  Adding res/drawable/com_facebook_button_check_off.png
+[DEBUG]  Adding res/drawable/com_facebook_button_check_on.png
+[DEBUG]  Adding res/drawable/com_facebook_button_grey_focused.9.png
+[DEBUG]  Adding res/drawable/com_facebook_button_grey_normal.9.png
+[DEBUG]  Adding res/drawable/com_facebook_button_grey_pressed.9.png
+[DEBUG]  Deflating res/drawable/com_facebook_button_like.xml
+[DEBUG]  Adding res/drawable/com_facebook_button_like_background.png
+[DEBUG]  Adding res/drawable/com_facebook_button_like_background_selected.png
+[DEBUG]  Adding res/drawable/com_facebook_button_like_icon.png
+[DEBUG]  Adding res/drawable/com_facebook_button_like_icon_selected.png
+[DEBUG]  Adding res/drawable/com_facebook_button_like_pressed.png
+[DEBUG]  Deflating res/drawable/com_facebook_button_like_selected.xml
+[DEBUG]  Adding res/drawable/com_facebook_close.png
+[DEBUG]  Adding res/drawable/com_facebook_icon.png
+[DEBUG]  Adding res/drawable/com_facebook_inverse_icon.png
+[DEBUG]  Adding res/drawable/com_facebook_list_divider.9.png
+[DEBUG]  Adding res/drawable/com_facebook_list_section_header_background.9.png
+[DEBUG]  Deflating res/drawable/com_facebook_loginbutton_blue.xml
+[DEBUG]  Adding res/drawable/com_facebook_loginbutton_blue_focused.png
+[DEBUG]  Adding res/drawable/com_facebook_loginbutton_blue_normal.png
+[DEBUG]  Adding res/drawable/com_facebook_loginbutton_blue_pressed.png
+[DEBUG]  Deflating res/drawable/com_facebook_loginbutton_silver.xml
+[DEBUG]  Adding res/drawable/com_facebook_logo.png
+[DEBUG]  Deflating res/drawable/com_facebook_picker_item_background.xml
+[DEBUG]  Adding res/drawable/com_facebook_picker_list_focused.9.png
+[DEBUG]  Adding res/drawable/com_facebook_picker_list_longpressed.9.png
+[DEBUG]  Adding res/drawable/com_facebook_picker_list_pressed.9.png
+[DEBUG]  Deflating res/drawable/com_facebook_picker_list_selector.xml
+[DEBUG]  Deflating res/drawable/com_facebook_picker_list_selector_background_transition.xml
+[DEBUG]  Adding res/drawable/com_facebook_picker_list_selector_disabled.9.png
+[DEBUG]  Deflating res/drawable/com_facebook_picker_top_button.xml
+[DEBUG]  Adding res/drawable/com_facebook_place_default_icon.png
+[DEBUG]  Adding res/drawable/com_facebook_profile_default_icon.png
+[DEBUG]  Adding res/drawable/com_facebook_profile_picture_blank_portrait.png
+[DEBUG]  Adding res/drawable/com_facebook_profile_picture_blank_square.png
+[DEBUG]  Deflating res/drawable/com_facebook_top_background.xml
+[DEBUG]  Deflating res/drawable/com_facebook_top_button.xml
+[DEBUG]  Deflating res/drawable/com_facebook_usersettingsfragment_background_gradient.xml
+[DEBUG]  Adding res/drawable/disclosure_64.png
+[DEBUG]  Deflating res/layout-v11/abc_screen_content_include.xml
+[DEBUG]  Deflating res/layout-v17/abc_alert_dialog_material.xml
+[DEBUG]  Deflating res/layout-v17/abc_dialog_title_material.xml
+[DEBUG]  Deflating res/layout-v17/abc_search_view.xml
+[DEBUG]  Deflating res/layout-v21/abc_screen_toolbar.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_title_item.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_up_container.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_view_list_nav_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_menu_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_mode_bar.xml
+[DEBUG]  Deflating res/layout/abc_action_mode_close_item_material.xml
+[DEBUG]  Deflating res/layout/abc_activity_chooser_view.xml
+[DEBUG]  Deflating res/layout/abc_activity_chooser_view_list_item.xml
+[DEBUG]  Deflating res/layout/abc_alert_dialog_material.xml
+[DEBUG]  Deflating res/layout/abc_dialog_title_material.xml
+[DEBUG]  Deflating res/layout/abc_expanded_menu_layout.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_checkbox.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_icon.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_radio.xml
+[DEBUG]  Deflating res/layout/abc_popup_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_screen_content_include.xml
+[DEBUG]  Deflating res/layout/abc_screen_simple.xml
+[DEBUG]  Deflating res/layout/abc_screen_simple_overlay_action_mode.xml
+[DEBUG]  Deflating res/layout/abc_screen_toolbar.xml
+[DEBUG]  Deflating res/layout/abc_search_dropdown_item_icons_2line.xml
+[DEBUG]  Deflating res/layout/abc_search_view.xml
+[DEBUG]  Deflating res/layout/abc_select_dialog_material.xml
+[DEBUG]  Deflating res/layout/abc_simple_dropdown_hint.xml
+[DEBUG]  Deflating res/layout/com_facebook_friendpickerfragment.xml
+[DEBUG]  Deflating res/layout/com_facebook_login_activity_layout.xml
+[DEBUG]  Deflating res/layout/com_facebook_picker_activity_circle_row.xml
+[DEBUG]  Deflating res/layout/com_facebook_picker_checkbox.xml
+[DEBUG]  Deflating res/layout/com_facebook_picker_image.xml
+[DEBUG]  Deflating res/layout/com_facebook_picker_list_row.xml
+[DEBUG]  Deflating res/layout/com_facebook_picker_list_section_header.xml
+[DEBUG]  Deflating res/layout/com_facebook_picker_search_box.xml
+[DEBUG]  Deflating res/layout/com_facebook_picker_title_bar.xml
+[DEBUG]  Deflating res/layout/com_facebook_picker_title_bar_stub.xml
+[DEBUG]  Deflating res/layout/com_facebook_placepickerfragment.xml
+[DEBUG]  Deflating res/layout/com_facebook_placepickerfragment_list_row.xml
+[DEBUG]  Deflating res/layout/com_facebook_search_bar_layout.xml
+[DEBUG]  Deflating res/layout/com_facebook_tooltip_bubble.xml
+[DEBUG]  Deflating res/layout/com_facebook_usersettingsfragment.xml
+[DEBUG]  Deflating res/layout/select_dialog_item_material.xml
+[DEBUG]  Deflating res/layout/select_dialog_multichoice_material.xml
+[DEBUG]  Deflating res/layout/select_dialog_singlechoice_material.xml
+[DEBUG]  Deflating res/layout/support_simple_spinner_dropdown_item.xml
+[DEBUG]  Deflating res/layout/ti_fb_login_button.xml
+[DEBUG]  Deflating res/layout/titanium_tabgroup.xml
+[DEBUG]  Deflating res/layout/titanium_ui_checkbox.xml
+[DEBUG]  Deflating res/layout/titanium_ui_edittext.xml
+[DEBUG]  Deflating res/layout/titanium_ui_list_header_or_footer.xml
+[DEBUG]  Deflating res/layout/titanium_ui_list_item.xml
+[DEBUG]  Deflating res/layout/titanium_ui_spinner.xml
+[DEBUG]  Deflating res/layout/titanium_ui_switchcompat.xml
+[DEBUG]  Deflating resources.arsc
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/facebook.jar
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/lib/bolts-android-1.1.2.jar
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/modules/android/facebook/4.0.5/lib/facebooksdk.jar
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/kroll-v8.jar
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-analytics.jar
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/aps-analytics.jar
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-android.jar
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/jaxen-1.1.1.jar
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/ti-commons-codec-1.3.jar
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/kroll-common.jar
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/titanium.jar
+[DEBUG]  Deflating org/appcelerator/titanium/build.properties
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/background.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_100.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_64.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_100.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_64.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-app.jar
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-ui.jar
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/nineoldandroids-appc-2.4.0.jar
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-filesystem.jar
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-media.jar
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-appcompat.jar
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/android-support-v4.jar
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/android-support-v7-appcompat.jar
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-locale.jar
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-network.jar
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/thirdparty.jar
+[DEBUG]  Deflating org/apache/Commons-NOTICE.txt
+[DEBUG]  Deflating org/apache/HttpComponents-NOTICE.txt
+[DEBUG]  Deflating org/apache/mime4j-NOTICE.txt
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-xml.jar
+[DEBUG]  Processing /Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/modules/titanium-platform.jar
+[DEBUG]  Adding classes.dex
+[INFO]   Processing /Users/leejaew/Workspace/Titanium/Login/build/android/src
+[DEBUG]  Adding lib/armeabi/libkroll-v8.so
+[DEBUG]  Adding lib/armeabi/libstlport_shared.so
+[DEBUG]  Adding lib/armeabi/libtiverify.so
+[DEBUG]  Adding lib/armeabi-v7a/libkroll-v8.so
+[DEBUG]  Adding lib/armeabi-v7a/libstlport_shared.so
+[DEBUG]  Adding lib/armeabi-v7a/libtiverify.so
+[DEBUG]  Adding lib/x86/libkroll-v8.so
+[DEBUG]  Adding lib/x86/libstlport_shared.so
+[DEBUG]  Adding lib/x86/libtiverify.so
+[DEBUG]  Adding lib/armeabi/libfacebook.so
+[DEBUG]  Adding lib/armeabi-v7a/libfacebook.so
+[DEBUG]  Adding lib/x86/libfacebook.so
+[INFO]   Writing unsigned apk: /Users/leejaew/Workspace/Titanium/Login/build/android/bin/app-unsigned.apk
+[INFO]   Using MD5withRSA signature algorithm
+[INFO]   Signing apk: /Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/bin/jarsigner "-sigalg" "MD5withRSA" "-digestalg" "SHA1" "-keystore" "/Users/leejaew/Library/Application Support/Titanium/mobilesdk/osx/4.1.0.GA/android/dev_keystore" "-storepass" "*******" "-signedjar" "/Users/leejaew/Workspace/Titanium/Login/build/android/bin/Login.apk" "/Users/leejaew/Workspace/Titanium/Login/build/android/bin/app-unsigned.apk" "tidev"
+[INFO]   Aligning zip file: /Users/leejaew/android-sdk-macosx/build-tools/22.0.1/zipalign "-v" "4" "/Users/leejaew/Workspace/Titanium/Login/build/android/bin/Login.apk" "/Users/leejaew/Workspace/Titanium/Login/build/android/bin/Login.apkz"
+[INFO]   Writing build manifest: /Users/leejaew/Workspace/Titanium/Login/build/android/build-manifest.json
+[INFO]   Making sure the adb server is running
+[INFO]   Installing apk: /Users/leejaew/Workspace/Titanium/Login/build/android/bin/Login.apk
+[INFO]   Installing app on device: SM-G850S
+[TRACE]  Checking if package manager service is started
+[TRACE]  Package manager has started
+[TRACE]  Executing: /Users/leejaew/android-sdk-macosx/platform-tools/adb -s 4100bf4744e18173 install -r /Users/leejaew/Workspace/Titanium/Login/build/android/bin/Login.apk
+[INFO]   App successfully installed
+[INFO]   Starting app: com.movableads.login/.LoginActivity
+[DEBUG]  Trying to start the app...
+[INFO]   Application pid: 487
+-- Start application log -----------------------------------------------------
+[INFO]   Project built successfully in 1m 14s 671ms
